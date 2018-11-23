@@ -1,0 +1,46 @@
+
+
+body{
+
+  background-image: linear-gradient(dodgerblue, white);
+}
+.outer{
+  display:block;
+  margin-top: 5%;
+  margin-left: 120px;
+}
+.inner{
+
+  width:850px;
+  margin-left: 120px;
+  margin-top:20%%;
+
+  background-color: white;
+  border: 1px solid dodgerblue;
+
+}
+
+.inner a{
+  text-decoration: none;
+  display:block;
+  padding:30px;
+  text-align: left;
+  color: black;
+  font-family:'Barrio';
+  font-size: 22px;
+
+
+}
+.inner p{
+  font-family:'Forum';
+  font-size: 18px;
+
+  text-align: left;
+  padding: 5px;
+}
+
+.inner a:hover{
+
+    background-color: dodgerblue;
+
+}

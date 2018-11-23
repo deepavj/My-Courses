@@ -1,0 +1,29 @@
+
+
+body{
+  background-color: dodgerblue;
+}
+.outer{
+  display:block;
+  margin-top: 5%;
+}
+.inner{
+  font-family: 'Barrio';
+  font-size: 30px;
+
+  width:850px;
+  margin-left: 120px;
+  margin-top:20%%;
+
+  background-color: white;
+  border: 1px solid dodgerblue;
+}
+
+.inner a{
+  text-decoration: none;
+  display:block;
+  padding:30px;
+  text-align: left;
+  color: black;
+
+}
